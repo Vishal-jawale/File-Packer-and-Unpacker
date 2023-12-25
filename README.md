@@ -1,2 +1,18 @@
 # File-Packer-and-Unpacker
-Marvellous Packer and Unpacker is a Java application that allows users to pack multiple files into a single packed file and later unpack them. This application provides an intuitive GUI interface where users can select files to be packed, create a packed file, and then unpack the files back to their original form. 
+This Application Is Based On Zipping And Unzipping The Directory PLATFORM REQUIRED : Windows Platform Or Linux Distributions.
+
+ARCHITECTURAL REQUIREMENT : AMD RYZEN 64 Bit Processor Or Higher.
+
+USER INTERFACE : Command Line Interface And GUI
+
+TECHNOLOGY USED : Java Programming.
+
+About This Application :
+
+This Application Is Used To Perform Packing And Unpacking Activity For Multiple Types Of Files.
+
+In Case Of Packing Activity I Maintain One File Which Contains Metadata And Data Of Multiple Files From Specified Directory.
+
+In Case Of Unpacking Activity I Extract All Data From Packed Files And According To Its Metadata It Create All Files.
+
+In This Application I Use Java As Frontend As Well As Backend Also For Platform Independency.
